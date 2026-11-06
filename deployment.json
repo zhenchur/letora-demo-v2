@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:26:18.480Z",
+  "generatedAt": "2026-11-06T14:49:59.929Z",
   "basePath": "/letora-demo-v2/",
   "source": {
     "project": "letora-storefront-final",
@@ -9,9 +9,9 @@
   },
   "build": {
     "algorithm": "sha256",
-    "fingerprint": "ca2d4d15432b226e028feb52dd2737b3c97eee020ef1f11d63841049e96bc15c",
+    "fingerprint": "ac28a54fb32779907402620decc9921ba4569289cf375cc9a4c356420ca7090c",
     "fileCount": 138,
-    "bytes": 39888227
+    "bytes": 39878179
   },
   "routes": [
     "/",
@@ -20,10 +20,10 @@
   ],
   "entrypoints": {
     "js": [
-      "assets/index-DFslTLxq.js"
+      "assets/index-C2Z6DAXG.js"
     ],
     "css": [
-      "assets/index-DDS6FLoX.css"
+      "assets/index-BkxKiAyQ.css"
     ]
   },
   "files": [
@@ -100,16 +100,16 @@
       "sha256": "67f036923bbab9df3dd5cd8432c71a5470fd0782c57d942a28e94e2fc6f06de6"
     },
     {
-      "path": "assets/index-DDS6FLoX.css",
+      "path": "assets/index-BkxKiAyQ.css",
       "role": "entry-css",
-      "bytes": 75361,
-      "sha256": "aa0bfd3b9cdb1672f5a9bd5a2abf0f738078e4e5c7c7ad5e409ba7288b642de3"
+      "bytes": 72239,
+      "sha256": "841100c2b5568842c31e10d351a4c03e8bfe3b6361b96789a9a59fcc012674bc"
     },
     {
-      "path": "assets/index-DFslTLxq.js",
+      "path": "assets/index-C2Z6DAXG.js",
       "role": "entry-js",
-      "bytes": 657715,
-      "sha256": "96ed55aa581208055588545dcbe2aadeea47da6b1facc084d23052a74a5f072f"
+      "bytes": 650789,
+      "sha256": "45f641ef87c0be4729ed6cd9a9e9ff5eaf6f18da4268516d2be444cb583fe5e3"
     }
   ],
   "categories": {
