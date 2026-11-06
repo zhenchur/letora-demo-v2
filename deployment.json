@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-06T14:26:18.480Z",
+  "basePath": "/letora-demo-v2/",
+  "source": {
+    "project": "letora-storefront-final",
+    "version": "1.0.0",
+    "revision": null
+  },
+  "build": {
+    "algorithm": "sha256",
+    "fingerprint": "ca2d4d15432b226e028feb52dd2737b3c97eee020ef1f11d63841049e96bc15c",
+    "fileCount": 138,
+    "bytes": 39888227
+  },
+  "routes": [
+    "/",
+    "/catalog/",
+    "/catalog-v2/"
+  ],
+  "entrypoints": {
+    "js": [
+      "assets/index-DFslTLxq.js"
+    ],
+    "css": [
+      "assets/index-DDS6FLoX.css"
+    ]
+  },
+  "files": [
+    {
+      "path": "assets/home/categories/row-1-left.png",
+      "role": "category-image",
+      "bytes": 868313,
+      "sha256": "ccd2371875f36c5d7a16210e78386e72e9b47b6900226714b20c3a6a62d646b2"
+    },
+    {
+      "path": "assets/home/categories/row-1-right.png",
+      "role": "category-image",
+      "bytes": 1037850,
+      "sha256": "546449fd3978f2c4b28b8c300d2752855242f0b245232d5e3ca2b11e710e6e33"
+    },
+    {
+      "path": "assets/home/categories/row-2-left.png",
+      "role": "category-image",
+      "bytes": 1075821,
+      "sha256": "8d3af3e5f4427ddbb8dc410d57c46a73beb514cec841283e849a66a4c91936d4"
+    },
+    {
+      "path": "assets/home/categories/row-2-right.png",
+      "role": "category-image",
+      "bytes": 1320114,
+      "sha256": "55bbd34213f85f91047e70e9f23897a4541fc0e8e7c75d60611f3815ecc36e47"
+    },
+    {
+      "path": "assets/home/categories/row-3-left.png",
+      "role": "category-image",
+      "bytes": 674888,
+      "sha256": "67f036923bbab9df3dd5cd8432c71a5470fd0782c57d942a28e94e2fc6f06de6"
+    },
+    {
+      "path": "assets/home/categories/row-3-right.png",
+      "role": "category-image",
+      "bytes": 1180725,
+      "sha256": "d77baa66fd2565ee667c0b82c83bc9b27341b525de5885a4eafbeaab915f9cb4"
+    },
+    {
+      "path": "assets/home/categories/row-4-left.png",
+      "role": "category-image",
+      "bytes": 836670,
+      "sha256": "5e17fad3e4f27c7f9d139e35e5eb0efa611d59fc118bb24e1e28c945bf69b865"
+    },
+    {
+      "path": "assets/home/categories/row-4-right.png",
+      "role": "category-image",
+      "bytes": 907461,
+      "sha256": "5a7b4cdc9faadef146e5d6e08b56c6a859f920b5c1add39dc393662223c0eb89"
+    },
+    {
+      "path": "assets/home/categories/row-5-left.png",
+      "role": "category-image",
+      "bytes": 1028254,
+      "sha256": "54a7dfe8bd3e93f42b0632a7c71bff07127f68839df286462a3d86cfa2fb1a7f"
+    },
+    {
+      "path": "assets/home/categories/row-5-right.png",
+      "role": "category-image",
+      "bytes": 868313,
+      "sha256": "ccd2371875f36c5d7a16210e78386e72e9b47b6900226714b20c3a6a62d646b2"
+    },
+    {
+      "path": "assets/home/categories/row-6-left.png",
+      "role": "category-image",
+      "bytes": 836670,
+      "sha256": "5e17fad3e4f27c7f9d139e35e5eb0efa611d59fc118bb24e1e28c945bf69b865"
+    },
+    {
+      "path": "assets/home/categories/row-6-right.png",
+      "role": "category-image",
+      "bytes": 674888,
+      "sha256": "67f036923bbab9df3dd5cd8432c71a5470fd0782c57d942a28e94e2fc6f06de6"
+    },
+    {
+      "path": "assets/index-DDS6FLoX.css",
+      "role": "entry-css",
+      "bytes": 75361,
+      "sha256": "aa0bfd3b9cdb1672f5a9bd5a2abf0f738078e4e5c7c7ad5e409ba7288b642de3"
+    },
+    {
+      "path": "assets/index-DFslTLxq.js",
+      "role": "entry-js",
+      "bytes": 657715,
+      "sha256": "96ed55aa581208055588545dcbe2aadeea47da6b1facc084d23052a74a5f072f"
+    }
+  ],
+  "categories": {
+    "expected": 12,
+    "included": 12,
+    "missing": []
+  }
+}
