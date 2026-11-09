@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T10:37:05.765Z",
+  "generatedAt": "2026-11-09T11:13:01.814Z",
   "basePath": "/letora-demo-v2/",
   "source": {
     "project": "letora-storefront-final",
@@ -9,9 +9,9 @@
   },
   "build": {
     "algorithm": "sha256",
-    "fingerprint": "dc0d4729f0fcade465a84f129e15a6c85012c570e0f460cba28c0b47d1c9fe79",
+    "fingerprint": "49df4e50fa407d64848ea97af98f3284d72cd689f7f4a03e6c3d1b912f287a93",
     "fileCount": 152,
-    "bytes": 48101041
+    "bytes": 48101246
   },
   "routes": [
     "/",
@@ -26,7 +26,7 @@
   ],
   "entrypoints": {
     "js": [
-      "assets/index-D2PrJewG.js"
+      "assets/index-CUaoTQp_.js"
     ],
     "css": [
       "assets/index-zFk-3RiV.css"
@@ -106,10 +106,10 @@
       "sha256": "67f036923bbab9df3dd5cd8432c71a5470fd0782c57d942a28e94e2fc6f06de6"
     },
     {
-      "path": "assets/index-D2PrJewG.js",
+      "path": "assets/index-CUaoTQp_.js",
       "role": "entry-js",
-      "bytes": 676115,
-      "sha256": "beec5274e99ff0b2ea26b0cc01747c45b36f28341217c8dd9500fcb1bb2e7781"
+      "bytes": 676320,
+      "sha256": "2848b4e837a63402147ba487cfc26749c2d37dad8ee3f02ee8ea895ef915f7f7"
     },
     {
       "path": "assets/index-zFk-3RiV.css",
