@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T06:56:29.852Z",
+  "generatedAt": "2026-11-09T10:16:16.166Z",
   "basePath": "/letora-demo-v2/",
   "source": {
     "project": "letora-storefront-final",
@@ -9,21 +9,27 @@
   },
   "build": {
     "algorithm": "sha256",
-    "fingerprint": "f62a5d5ba9ef70149c585ddd61a43a29562b2b3edc490ef9e72e5a10ca55232d",
-    "fileCount": 142,
-    "bytes": 70502971
+    "fingerprint": "c885fdc7ef3359e7e791b096e80b28980dabaab0e891aa31f2e1dd63350e2483",
+    "fileCount": 152,
+    "bytes": 48102380
   },
   "routes": [
     "/",
     "/catalog/",
-    "/catalog-v2/"
+    "/catalog-v2/",
+    "/catalog-v2/dresses/",
+    "/catalog-v2/skirts/",
+    "/catalog-v2/trousers/",
+    "/catalog-v2/outerwear/",
+    "/catalog-v2/tops/",
+    "/catalog-v2/blouses/"
   ],
   "entrypoints": {
     "js": [
-      "assets/index-hnWOlfmM.js"
+      "assets/index-VM2-LY-K.js"
     ],
     "css": [
-      "assets/index-DxXQgJMr.css"
+      "assets/index-DYFuG-aj.css"
     ]
   },
   "files": [
@@ -100,16 +106,16 @@
       "sha256": "67f036923bbab9df3dd5cd8432c71a5470fd0782c57d942a28e94e2fc6f06de6"
     },
     {
-      "path": "assets/index-DxXQgJMr.css",
+      "path": "assets/index-DYFuG-aj.css",
       "role": "entry-css",
-      "bytes": 72539,
-      "sha256": "1ab446a2446b6fa4c02dc72663c8b6c9bbca2877caaa86e723eac5087396a011"
+      "bytes": 72562,
+      "sha256": "1ba1af0c708d1764601e5791e6720c8d9cf8c4d93c7fda9471567b857f0659db"
     },
     {
-      "path": "assets/index-hnWOlfmM.js",
+      "path": "assets/index-VM2-LY-K.js",
       "role": "entry-js",
-      "bytes": 651518,
-      "sha256": "7a34fa92b3d713c615d9b9f6f3fb2e9eee316a1e54ea147b0065e1960c747c8d"
+      "bytes": 677372,
+      "sha256": "7c37a8ecc03d2d9b8778e806838bf93e579ed095b36f677ab0456b7bf2f4cac3"
     }
   ],
   "categories": {
