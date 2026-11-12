@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T17:00:22.419Z",
+  "generatedAt": "2026-11-12T08:53:25.309Z",
   "basePath": "/letora-demo-v2/",
   "source": {
     "project": "letora-storefront-final",
@@ -9,9 +9,9 @@
   },
   "build": {
     "algorithm": "sha256",
-    "fingerprint": "e91b636116a835b5b71947f6b5d4e1c443a02fd2a63a8b9e3fd1e8e2ce4ded6e",
-    "fileCount": 150,
-    "bytes": 23802987
+    "fingerprint": "7b3cd12d92d4e73c3478077ab299b62c2691ebdb6495aeb8b0f19605ec8335f1",
+    "fileCount": 156,
+    "bytes": 27631774
   },
   "routes": [
     "/",
@@ -22,14 +22,15 @@
     "/catalog-v2/trousers/",
     "/catalog-v2/outerwear/",
     "/catalog-v2/tops/",
-    "/catalog-v2/blouses/"
+    "/catalog-v2/blouses/",
+    "/product/winter-dream-white/"
   ],
   "entrypoints": {
     "js": [
-      "assets/index-h0JzMso6.js"
+      "assets/index-C9Spl6V2.js"
     ],
     "css": [
-      "assets/index-eXAP6Ky1.css"
+      "assets/index-LJCHyFwY.css"
     ]
   },
   "files": [
@@ -106,16 +107,16 @@
       "sha256": "d43ed05dc0b7ae8f52da1e2d70a2396c2e8da055155a7a51136e42ffcf6f01bb"
     },
     {
-      "path": "assets/index-eXAP6Ky1.css",
-      "role": "entry-css",
-      "bytes": 72064,
-      "sha256": "472e266c9c67f5c043ddd09c876d44ae3cbd7b2332d629a70b55adb3c8c51b1d"
+      "path": "assets/index-C9Spl6V2.js",
+      "role": "entry-js",
+      "bytes": 688730,
+      "sha256": "1dd1f1c7596607fb0e640fde99435553118d10a6ea2f8dbfe993620bd2ef3ca4"
     },
     {
-      "path": "assets/index-h0JzMso6.js",
-      "role": "entry-js",
-      "bytes": 671315,
-      "sha256": "46927685bebe07c16cc28f16137bc5adf3ec4993e4718c873135509f98506bab"
+      "path": "assets/index-LJCHyFwY.css",
+      "role": "entry-css",
+      "bytes": 82901,
+      "sha256": "eebd7846089953a95b5cb10ba69d5ec54e933d0f78080181d626b5e1e2d37c79"
     }
   ],
   "categories": {
